@@ -1,4 +1,4 @@
-# Phoenix Citadel
+# Phoenix 
 
 An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD
 
