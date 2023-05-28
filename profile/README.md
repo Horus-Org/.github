@@ -7,5 +7,5 @@ An open source initiative from Area Layer for provide Hypercore, Nostr, Lightnin
 - Tools
 - Privacy
 - Freedom
-- CoinJoin
-- Free of speech
+
+# Manifest 
