@@ -36,7 +36,10 @@ All ours libraries will support
 
 ## Tools
 
-- [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib/tree/main)
+- [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib)
+- [Bitcoin Library](https://github.com/Phoenix-Organization/Bitcoin-lib)
+- [Hypercore Library](https://github.com/Phoenix-Organization/Hypercore-lib)
+- [Lightning Network Library](https://github.com/Phoenix-Organization/Lightning-Network-Lib)
 
 ## Manifesto
 
