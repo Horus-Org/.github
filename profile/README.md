@@ -41,6 +41,10 @@ All ours libraries will support
 - [Hypercore Library](https://github.com/Phoenix-Organization/Hypercore-lib)
 - [Lightning Network Library](https://github.com/Phoenix-Organization/Lightning-Network-Lib)
 
+## Join Us
+
+As the repositories are full open source and under MIT license any developer, designer, researcher can help
+
 ## Manifesto
 
 [Check here](https://github.com/Phoenix-Organization/.github/blob/main/MANIFESTO.md)
