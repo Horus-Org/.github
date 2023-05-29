@@ -20,4 +20,6 @@ An open source initiative from Area Layer for provide Hypercore, Nostr, Lightnin
 
 - Hypercore 
 
-## Manifest 
+## Manifesto
+
+[Check here]
