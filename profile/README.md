@@ -20,6 +20,20 @@ An open source initiative from [Area Layer](https://github.com/AreaLayer) for pr
 
 - Hypercore 
 
+## Library
+
+All ours libraries will support
+
+- Dart
+
+- Flutter
+
+- Rust
+
+- Javascript
+
+- Typescript
+
 ## Tools
 
 - [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib/tree/main)
