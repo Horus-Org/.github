@@ -20,6 +20,10 @@ An open source initiative from Area Layer for provide Hypercore, Nostr, Lightnin
 
 - Hypercore 
 
+## Tools
+
+- [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib/tree/main)
+
 ## Manifesto
 
 [Check here](https://github.com/Phoenix-Organization/.github/blob/main/MANIFESTO.md)
