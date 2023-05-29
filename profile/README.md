@@ -1,6 +1,6 @@
 # Phoenix 
 
-An open source initiative from Area Layer for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD
+An open source initiative from [Area Layer](https://github.com/AreaLayer) for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD
 
 ## Tech 
 
