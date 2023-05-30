@@ -48,9 +48,9 @@ All ours libraries will support
 
 ## Privacy
 
-- CoinJoin
+- [CoinJoin](https://github.com/Phoenix-Organization/Coinjoin-lib)
 
-- PayJoin
+- [PayJoin](https://github.com/Phoenix-Organization/payjoin-lib)
 
 ## Join Us
 
