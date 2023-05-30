@@ -46,6 +46,12 @@ All ours libraries will support
 - [Lightning Network Library](https://github.com/Phoenix-Organization/Lightning-Network-Lib)
 - [TBD Library](https://github.com/Phoenix-Organization/TBD-lib)
 
+## Privacy
+
+- CoinJoin
+
+- PayJoin
+
 ## Join Us
 
 As the repositories are full open source and under MIT license any developer, designer, researcher can help
