@@ -34,6 +34,10 @@ All ours libraries will support
 
 - Typescript
 
+- Swift
+
+- Klotin
+
 ## Tools
 
 - [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib)
