@@ -1,4 +1,4 @@
-# Phoenix 
+# Phoenix's City
 
 An open source initiative from [Area Layer](https://github.com/AreaLayer) for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD
 
