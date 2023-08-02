@@ -18,7 +18,9 @@ An open source initiative from [Area Layer](https://github.com/AreaLayer) for pr
 
 - Nostr 
 
-- Hypercore 
+- Hypercore
+
+- DLCs
 
 ## Library
 
@@ -45,6 +47,7 @@ All ours libraries will support
 - [Hypercore Library](https://github.com/Phoenix-Organization/Hypercore-lib)
 - [Lightning Network Library](https://github.com/Phoenix-Organization/Lightning-Network-Lib)
 - [TBD Library](https://github.com/Phoenix-Organization/TBD-lib)
+- [DLC-Dart](https://github.com/Horus-Org/Dart-DLC/)
 
 ## Privacy
 
