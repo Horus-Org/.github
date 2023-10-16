@@ -45,7 +45,7 @@ All ours libraries will support
 - [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib)
 - [Bitcoin Library](https://github.com/Phoenix-Organization/Bitcoin-lib)
 - [Hypercore Library](https://github.com/Phoenix-Organization/Hypercore-lib)
-- [Lightning Network Library](https://github.com/Phoenix-Organization/Lightning-Network-Lib)
+- [Lightning Network Library](https://github.com/Horus-Org/ln-lib)
 - [TBD Library](https://github.com/Phoenix-Organization/TBD-lib)
 - [DLC-Dart](https://github.com/Horus-Org/Dart-DLC/)
 
