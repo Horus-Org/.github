@@ -1,6 +1,6 @@
 # Horus
 
-An open source initiative from [Area Layer](https://github.com/AreaLayer) for provide Hypercore, Nostr, Lightning Network, Bitcoin and TBD
+An open source initiative from [Area Layer](https://github.com/AreaLayer) for provide Bitcoin and Lightning Network
 
 ## Tech 
 
@@ -10,15 +10,9 @@ An open source initiative from [Area Layer](https://github.com/AreaLayer) for pr
 
 ## Protocols 
 
-- TBD (Web 5) 
-
 - Lightning Network 
 
 - Bitcoin 
-
-- Nostr 
-
-- Hypercore
 
 - DLCs
 
@@ -42,18 +36,9 @@ All ours libraries will support
 
 ## Tools
 
-- [Nostr Library](https://github.com/Phoenix-Organization/Nostr-lib)
-- [Bitcoin Library](https://github.com/Phoenix-Organization/Bitcoin-lib)
-- [Hypercore Library](https://github.com/Phoenix-Organization/Hypercore-lib)
+- [Bitcoin Library](https://github.com/Horus-Org/Bitcoin-lib)
 - [Lightning Network Library](https://github.com/Horus-Org/ln-lib)
-- [TBD Library](https://github.com/Phoenix-Organization/TBD-lib)
 - [DLC-Dart](https://github.com/Horus-Org/Dart-DLC/)
-
-## Privacy
-
-- [CoinJoin](https://github.com/Phoenix-Organization/Coinjoin-lib)
-
-- [PayJoin](https://github.com/Phoenix-Organization/payjoin-lib)
 
 ## Join Us
 
