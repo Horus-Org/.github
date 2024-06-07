@@ -26,18 +26,10 @@ All ours libraries will support
 
 - Rust
 
-- Javascript
-
-- Typescript
-
-- Swift
-
-- Klotin
+- Docker
 
 ## Tools
 
-- [Bitcoin Library](https://github.com/Horus-Org/Bitcoin-lib)
-- [Lightning Network Library](https://github.com/Horus-Org/ln-lib)
 - [DLC-Dart](https://github.com/Horus-Org/Dart-DLC/)
 
 ## Join Us
