@@ -1,4 +1,4 @@
-# Horus
+# Horus 👁️‍🗨️
 
 An open source initiative from [Area Layer](https://github.com/AreaLayer) for provide Bitcoin and Lightning Network
 
