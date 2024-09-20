@@ -16,6 +16,8 @@ An open source initiative from [Area Layer](https://github.com/AreaLayer) for pr
 
 - DLCs
 
+- BIPs
+
 ## Library
 
 All ours libraries will support
@@ -27,6 +29,8 @@ All ours libraries will support
 - Rust
 
 - Docker
+
+- Javascript
 
 ## Tools
 
