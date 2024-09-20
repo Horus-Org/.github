@@ -30,7 +30,9 @@ All ours libraries will support
 
 ## Tools
 
-- [DLC-Dart](https://github.com/Horus-Org/Dart-DLC/)
+- [Dart DLC](https://github.com/Horus-Org/Dart-DLC/)
+- [Docker DLC](https://github.com/Horus-Org/docker-dlc)
+- [BIP-353 Lib](https://github.com/Horus-Org/bip-353-lib)
 
 ## Join Us
 
