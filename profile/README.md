@@ -37,6 +37,7 @@ All ours libraries will support
 - [Dart DLC](https://github.com/Horus-Org/Dart-DLC/)
 - [Docker DLC](https://github.com/Horus-Org/docker-dlc)
 - [BIP-353 Lib](https://github.com/Horus-Org/bip-353-lib)
+- [Payjoin React Native](https://github.com/Horus-Org/payjoin-react-native)
 
 ## Join Us
 
