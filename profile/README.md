@@ -1,6 +1,6 @@
 # Horus 👁️‍🗨️
 
-An open source initiative from [Area Layer](https://github.com/AreaLayer) for provide Bitcoin and Lightning Network
+An open source initiative from [PrivAtlas](https://github.com/PrivAtlas) for provide Bitcoin and Lightning Network
 
 ## Tech 
 
